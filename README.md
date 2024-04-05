@@ -1,7 +1,7 @@
-#WiNgS Tool
+# WiNgS Tool
 ## description
-this is tools is for testing the shellcode
-and run it to the memory
+ this tools is for testing the shellcodes and run it to the memory
+ ,is created by yassin0xe
 ## install
 to install the wings tool ,basicaly use MakeFile
 to install it
