@@ -62,8 +62,8 @@ mov rax,60
 syscall
 ```
 ```sh
-nasm shellcode.asm -o shellcode.bin
-wings -f shellcode.bin -r
+nasm test.asm -o test.bin
+wings -f test.bin -r
 ```
 the outputs is like this
 ```
